@@ -1,3 +1,4 @@
-am proekts imito vakvekneb rom aghar vmushaob amaze.... uketes versiaze gadavedi romelic shegidzliat [ak naxot](https://www.youtube.com/watch?v=e597b9ZtmCo) :) raghaceebi gafuchebulia da checkebia chasasworebeli magram Datamodelis amogheba da ase shemdeg xerxdeba..... is versia aramgonia axlo momavalshi gamovushva mara es daichit :):):):):)):)💯
+# რობლოქსის ექსტერნალი
+სანამ დავიწყებდე მსურს განვაცხადო რომ ეს ექსტერნალი სრული კრახია, ვეცადე აიმბოტის მსგავსი რამის გაკეთებას მაგრამ მერე მივხვდი რომ უაზრობა იქნებოდა და გადავედი ინტერნალის დაწერაზე. ექსტერნალზე მივხვდი რომ აზრი არ ქონდა იმისდა მიუხედავად რომ შემეძლო მოდულსკრიპტზე გადამეწერა ჩემი ლუას კოდი და კომუნიკაციის ხიდი შემექმნა, მე როგორც სიძნელის და ინტერნალის მოყვარული პიროვნება პირდაპირ გადავრბაგდი იქეთ, რომელსაც შეგიძლია გაეცნოთ ჩემს მეორე რეპოზე. ვინც იწყებთ რობლოქსის ექსპლოიტის დაწერას გირჩევთ რომ ინტერნალი დაწეროთ თქვენით თავიდან ბოლომდე ან გამოიყენოთ ჩემი პროექტი რომელიც Execution-ს შვება მაგრამ Identity და Capabilities ვერ აყენებს. (მე პირადად გირჩევთ თქვენით გააკეთოთ თორემ ადრე თუ გვიან უფრო გაიჭედებით.)
 
 ![image](https://github.com/user-attachments/assets/a29223e1-aaef-4b62-a040-7368538a4446)
